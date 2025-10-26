@@ -1,4 +1,4 @@
-<!-- Created by Dr. Poteete for Cybersecurity at Geneva College -->
+<!-- Created by Dr. Poteete, RedTeam Operations: CrimeNet -->
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 	$uploadDir = './';
